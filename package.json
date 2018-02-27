@@ -1,16 +1,17 @@
 {
   "name": "quarter-moon-atom-syntax",
   "theme": "syntax",
-  "version": "2.0.9",
-  "description": "Quarter Moon Syntax Theme for Atom, based on the New Moon theme by Tania Rascia. A slightly-higher-contrast dark theme. Your new-new favorite theme.",
+  "version": "2.0.9a",
+  "description": "A slightly-higher-contrast dark syntax theme based on the New Moon theme by Tania Rascia.",
   "keywords": [
+    "atom",
     "syntax",
     "theme",
     "new moon",
     "quarter moon",
     "dark"
   ],
-  "repository": "https://github.com/tobybot/new-moon-atom-syntax",
+  "repository": "https://github.com/tobybot/quarter-moon-atom-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
